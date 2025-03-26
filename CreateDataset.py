@@ -78,7 +78,7 @@ def go():
     data_all.append(np.concatenate([y * 1000, Vs])[0:66])
 
 
-tau = 0.933
+tau = 0.9
 while len(data_all) < 100000:
     go()
     if len(data_all) % 10000 == 0:
