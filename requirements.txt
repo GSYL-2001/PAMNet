@@ -1,0 +1,10 @@
+disba==0.6.1
+einops==0.8.0
+matplotlib==3.9.2
+numba==0.59.0
+pandas==2.2.1
+scikit-learn==1.5.2
+torch==2.2.2
+torchaudio==2.2.2
+torchviz==0.0.2
+tqdm==4.66.2
