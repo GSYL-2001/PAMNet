@@ -7,4 +7,4 @@ scikit-learn==1.5.2
 torch==2.2.2
 torchaudio==2.2.2
 torchviz==0.0.2
-tqdm==4.66.2
+tqdm==4.66.3
